@@ -18,5 +18,8 @@ for  i in e:
 for i in range(10,20):
     print(i)
 
+for i in range(20,41):
+    print(i)
+
 print('a')  
 print('Hello world')
