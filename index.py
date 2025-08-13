@@ -21,5 +21,11 @@ for i in range(10,20):
 for i in range(20,41):
     print(i)
 
+k = [1,2,3]
+k.append(4)
+k.append(5)
+k.append(6)
+print(k)
+
 print('a')  
 print('Hello world')
