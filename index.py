@@ -12,5 +12,8 @@ e = 'apples'
 print(len(e))
 print(e[0])
 
+for  i in e:
+    print(i)
+
 print('a')  
 print('Hello world')
