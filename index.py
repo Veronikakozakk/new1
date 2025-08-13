@@ -15,5 +15,8 @@ print(e[0])
 for  i in e:
     print(i)
 
+for i in range(10,20):
+    print(i)
+
 print('a')  
 print('Hello world')
