@@ -1,4 +1,2 @@
-a = 'new branch'
 
-print(a)  
-
+print('a')  
