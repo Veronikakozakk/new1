@@ -26,6 +26,8 @@ k.append(4)
 k.append(5)
 k.append(6)
 print(k)
+k.clear()
+print(k)
 
 print('a')  
 print('Hello world')
