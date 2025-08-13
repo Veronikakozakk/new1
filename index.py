@@ -1,2 +1,2 @@
-a = 'data'
+a = 'A'
 print(a)  
